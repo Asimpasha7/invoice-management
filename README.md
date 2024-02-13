@@ -28,7 +28,7 @@ Technologies Used
 Setup
 
 
-1. Clone the repository: git clone https://github.com/Asimpasha7/invoice-management.git
+1. Clone the repository: git clone https://github.com/Asimpasha7/invoice-management.git 
 2. Navigate to the project directory: cd invoice-management
 3. Install dependencies: composer install
 4. Copy the .env and configure your database connection.
