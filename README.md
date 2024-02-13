@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Invoice Management System</title>
-   
-</head>
-<body>
+
                                    Invoice Management System
 
 This is a web application for managing invoices for businesses. 
@@ -49,5 +43,4 @@ Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
 
-</body>
 </html>
