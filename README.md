@@ -1,23 +1,33 @@
 Invoice Management System
-This is a web application for managing invoices for businesses. The application allows registered users to create, edit, and delete invoices, as well as generate reports based on invoice data.
+
+This is a web application for managing invoices for businesses. 
+
+The application allows registered users to create, edit, and delete invoices, as well as generate reports based on invoice data.
 
 Features
 
-User authentication: Users can register, log in, and log out.
-CRUD operations on invoices: Users can create, read, update, and delete invoices.
-Invoice item management: Each invoice can have multiple items with descriptions, quantities, and amounts.
-Reporting: Users can generate reports based on invoice data, including total amounts and payment statuses.
-Responsive design: The application is responsive and works well on desktop and mobile devices.
+1. User authentication: Users can register, log in, and log out.
+
+2. CRUD operations on invoices: Users can create, read, update, and delete invoices.
+
+3. Invoice item management: Each invoice can have multiple items with descriptions, quantities, and amounts.
+
+4. Reporting: Users can generate reports based on invoice data, including total amounts and payment statuses.
+
+5. Responsive design: The application is responsive and works well on desktop and mobile devices.
 
 
 
 Technologies Used
 
 
-Laravel: The backend of the application is built using the Laravel framework, which provides features such as routing, database ORM, and authentication.
-MySQL: The application uses MySQL as the database to store invoice data.
-Bootstrap: The frontend of the application is styled using the Bootstrap framework for a clean and responsive design.
-jQuery: jQuery is used for client-side interactions and dynamic content loading.
+1.Laravel: The backend of the application is built using the Laravel framework, which provides features such as routing, database ORM, and authentication.
+
+2.MySQL: The application uses MySQL as the database to store invoice data.
+
+3.Bootstrap: The frontend of the application is styled using the Bootstrap framework for a clean and responsive design.
+
+4.jQuery: jQuery is used for client-side interactions and dynamic content loading.
 
 
 Setup
